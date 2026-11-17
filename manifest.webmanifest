@@ -1,0 +1,10 @@
+{
+  "name": "TRADEBOT AI Forex Intelligence",
+  "short_name": "TRADEBOT AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080e19",
+  "theme_color": "#0b1220",
+  "description": "Forex reference rates and educational market analysis",
+  "icons": []
+}
